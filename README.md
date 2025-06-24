@@ -9,4 +9,4 @@ Atualmente, trabalho como backend e procuro me qualificar cada vez mais.
 - Flask
 - Django
 - Git e GitHub
-- Banco de dados (SQLite, PostgreSQL)
+- Banco de dados (SQLite, MySQL, PostgreSQL)
