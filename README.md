@@ -26,7 +26,6 @@ Estou constantemente praticando e evoluindo nesses conhecimentos.
 ## 📈 GitHub Status
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrosousa-dev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosousa-dev&layout=compact&theme=radical)
 
 ---
 
