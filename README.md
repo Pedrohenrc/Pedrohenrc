@@ -23,12 +23,6 @@ Estou constantemente praticando e evoluindo nesses conhecimentos.
 
 ---
 
-## 📈 GitHub Status
-
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrosousa-dev&show_icons=true&theme=radical)
-
----
-
 ## 📚 Em aprendizado
 
 - 📊 **Análise de Dados**
