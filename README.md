@@ -1,33 +1,32 @@
-# 👋 Olá! Eu sou Pedro Sousa
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4600&pause=2500&color=3b82f6&width=435&lines=Hi+there%2C+I+am+Pedro!" alt="Typing SVG" /></a>
 
-🎓 Estudante de programação com o objetivo de ingressar no **NADIC - IFRN PDF** e construir uma carreira sólida como **desenvolvedor back-end**.
+![Pedro Sousa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrohenrc&show_icons=true&title_color=3b82f6&text_color=60a5fa&icon_color=1d4ed8&bg_color=0f172a&border_color=1e40af&rank_icon=github)
 
----
+## My top open source projects
 
-## 🚀 Sobre mim
+<p align="left">
+  <a href="https://github.com/Pedrohenrc?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-3b82f6?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
 
-Atualmente focado em desenvolvimento web com Python, especialmente com os frameworks **Django** e **Flask**. Tenho me dedicado à criação de APIs, sistemas de gerenciamento e projetos pessoais que unem prática com teoria.
+## Technology Stack
 
-Além disso, estou iniciando meus estudos na área de **Análise de Dados**, explorando como transformar dados em conhecimento.
+<div align="center">
 
----
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,mysql,postgres,django,fastapi,flask,docker,githubactions&theme=dark)](https://skillicons.dev)
 
-## 💻 Tecnologias e Ferramentas
+</div>
 
-- 🐍 **Python**
-- 🌐 **Django** e **Flask**
-- 🗄️ **MySQL** e **SQLite**
-- 🔧 **Git** e **GitHub**
+## Connect with me
 
-Estou constantemente praticando e evoluindo nesses conhecimentos.
+<p align="left">
+  <a href="https://www.linkedin.com/in/pedro-sousa-dev">
+    <img src="https://img.shields.io/badge/-LinkedIn-3b82f6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3b82f6" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:pirriquecsousa@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-3b82f6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1d4ed8" alt="Email"/>
+  </a>
+</p>
 
----
-
-## 📚 Em aprendizado
-
-- 📊 **Análise de Dados**
-- 🐼 **Pandas**
-- 📈 **Visualização de Dados**
-- 📦 **APIs REST com Django REST Framework**
-
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e40af&height=100&width=1000&section=footer"/>
+</div>
