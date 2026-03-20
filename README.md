@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,mysql,postgres,django,fastapi,flask,docker,githubactions&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,react,tailwind,python,mysql,postgres,django,fastapi,flask,docker,githubactions&theme=dark)](https://skillicons.dev)
 
 </div>
 
